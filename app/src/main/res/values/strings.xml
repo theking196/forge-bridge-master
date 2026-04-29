@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Forge Bridge</string>
+    <string name="server_running">Bridge running on localhost:8745</string>
+    <string name="add_provider">Add Provider</string>
+    <string name="remove">Remove</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="api_key_hint">API key</string>
+    <string name="token_hint">Session token</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="provider_openai">OpenAI (API)</string>
+    <string name="provider_anthropic">Anthropic (API)</string>
+    <string name="provider_gemini">Gemini (API)</string>
+    <string name="provider_chatgpt">ChatGPT (Proxy)</string>
+    <string name="provider_claude">Claude (Proxy)</string>
+    <string name="auth_with_browser">Sign in with browser</string>
+    <string name="notif_channel_name">Bridge Service</string>
+    <string name="notif_channel_desc">Keeps the local AI gateway running</string>
+    <string name="notif_title">Forge Bridge active</string>
+    <string name="notif_text">Local AI gateway listening on port 8745</string>
+</resources>

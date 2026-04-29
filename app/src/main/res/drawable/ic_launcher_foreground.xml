@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Forge Bridge logo: anvil + bridge arc -->
+    <path
+        android:fillColor="#FFFF6B35"
+        android:pathData="M30,42 L78,42 L82,52 L26,52 Z" />
+    <path
+        android:fillColor="#FFFF6B35"
+        android:pathData="M40,52 L68,52 L66,72 L42,72 Z" />
+    <path
+        android:fillColor="#FFFF6B35"
+        android:pathData="M48,72 L60,72 L62,80 L46,80 Z" />
+    <path
+        android:fillColor="#FFFFCC99"
+        android:strokeColor="#FFFF6B35"
+        android:strokeWidth="2"
+        android:pathData="M22,40 Q54,18 86,40" />
+</vector>
